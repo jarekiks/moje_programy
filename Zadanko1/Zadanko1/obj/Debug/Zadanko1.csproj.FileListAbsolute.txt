@@ -1,0 +1,7 @@
+C:\Users\Administrator.LAPTOP-3B3DS303\source\repos\Zadanko1\Zadanko1\bin\Debug\Zadanko1.exe.config
+C:\Users\Administrator.LAPTOP-3B3DS303\source\repos\Zadanko1\Zadanko1\bin\Debug\Zadanko1.exe
+C:\Users\Administrator.LAPTOP-3B3DS303\source\repos\Zadanko1\Zadanko1\bin\Debug\Zadanko1.pdb
+C:\Users\Administrator.LAPTOP-3B3DS303\source\repos\Zadanko1\Zadanko1\obj\Debug\Zadanko1.csprojAssemblyReference.cache
+C:\Users\Administrator.LAPTOP-3B3DS303\source\repos\Zadanko1\Zadanko1\obj\Debug\Zadanko1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.LAPTOP-3B3DS303\source\repos\Zadanko1\Zadanko1\obj\Debug\Zadanko1.exe
+C:\Users\Administrator.LAPTOP-3B3DS303\source\repos\Zadanko1\Zadanko1\obj\Debug\Zadanko1.pdb
