@@ -26,7 +26,7 @@ public class serv {
             
         }
 
-        Console.Write("OK");
+        
         string txt = String.Join("", slowo.ToArray());
  
         ASCIIEncoding asen=new ASCIIEncoding();
@@ -40,7 +40,8 @@ public class serv {
         cmd.Connection = con;
         cmd.ExecuteNonQuery();
         con.Close();
-
+        Console.Write("OK");
+        
         s.Close();
         myList.Stop();
 
